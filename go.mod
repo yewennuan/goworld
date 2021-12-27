@@ -15,12 +15,13 @@ require (
 	github.com/petar/GoLLRB v0.0.0-20190514000832-33fb24c13b99
 	github.com/pkg/errors v0.9.1
 	github.com/sevlyar/go-daemon v0.1.5
-	github.com/shirou/gopsutil v2.19.11+incompatible
+	github.com/shirou/gopsutil v3.21.10+incompatible
 	github.com/shirou/w32 v0.0.0-20160930032740-bb4de0191aa4 // indirect
 	github.com/smartystreets/goconvey v1.6.4 // indirect
 	github.com/templexxx/cpufeat v0.0.0-20180724012125-cef66df7f161 // indirect
 	github.com/templexxx/xor v0.0.0-20181023030647-4e92f724b73b // indirect
 	github.com/tjfoc/gmsm v1.0.1 // indirect
+	github.com/tklauser/go-sysconf v0.3.9 // indirect
 	github.com/vmihailenco/msgpack v4.0.4+incompatible
 	github.com/xiaonanln/go-aoi v0.2.0
 	github.com/xiaonanln/go-trie-tst v0.0.0-20171018095208-5b9678d55438
@@ -33,7 +34,7 @@ require (
 	github.com/xtaci/lossyconn v0.0.0-20190602105132-8df528c0c9ae // indirect
 	go.uber.org/zap v1.13.0
 	golang.org/x/net v0.0.0-20191126235420-ef20fe5d7933
-	golang.org/x/sys v0.0.0-20191128015809-6d18c012aee9
+	golang.org/x/sys v0.0.0-20210816074244-15123e1e1f71
 	google.golang.org/appengine v1.6.5 // indirect
 	gopkg.in/eapache/queue.v1 v1.1.0 // indirect
 	gopkg.in/ini.v1 v1.51.0 // indirect
